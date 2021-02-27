@@ -1,0 +1,45 @@
+body{
+	background-color: #f5d9d5;
+}
+.blurb h2{
+	color:red;
+	font-weight:100;
+	font-size: 2.5rem; 
+}
+.blurb p{
+	color: #f498b0;
+	font-size: 1.25rem;
+	font-weight: 100;
+}
+.navbar{
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+#ads .nav-link{
+	color:white;
+}
+#ads .nav-link:hover{
+	color: red;
+}
+#ads .navbar-brand{
+	color: red;
+	font-weight: 400;
+}
+.tet{
+	color:red;
+}
+#heading h1{
+	font-weight: 100;
+	font-size:4rem;
+}
+@media (max-width:1300px){
+	#heading h1 {
+		font-size: 3rem;
+	}
+}
+.rowt{
+	padding-bottom: 100px;
+}
+.navbar .scrolled {
+	background: purple;
+}

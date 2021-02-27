@@ -1,0 +1,18 @@
+body{
+	border: 20px solid grey;
+	padding: 20px;
+	width: 80%;
+	margin: 20px auto;
+	max-width: 700px;
+}
+
+h4{
+	text-transform: uppercase;
+	padding-right: 1px;
+	letter-spacing: .2rem;
+}
+
+.quote{
+	padding-left: 3px;
+	border-left: 3px solid grey;
+}
